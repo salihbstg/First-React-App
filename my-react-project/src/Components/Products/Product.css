@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    content: "";
+}.card-wrapper{
+    display: flex;
+    flex-direction: column;
+    background-color: #864544;
+    color: white;
+    padding:10px 20px;
+}
